@@ -1,2 +1,2 @@
 # design-patterns-go
-# design-patterns-go
+For personal practise
